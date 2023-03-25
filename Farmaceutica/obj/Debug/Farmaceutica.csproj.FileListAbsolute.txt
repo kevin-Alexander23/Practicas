@@ -1,0 +1,8 @@
+C:\Users\kevin\OneDrive\Documentos\GitHub\Practicas\Farmaceutica\bin\Debug\Farmaceutica.exe.config
+C:\Users\kevin\OneDrive\Documentos\GitHub\Practicas\Farmaceutica\bin\Debug\Farmaceutica.exe
+C:\Users\kevin\OneDrive\Documentos\GitHub\Practicas\Farmaceutica\bin\Debug\Farmaceutica.pdb
+C:\Users\kevin\OneDrive\Documentos\GitHub\Practicas\Farmaceutica\obj\Debug\Farmaceutica.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\GitHub\Practicas\Farmaceutica\obj\Debug\Farmaceutica.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevin\OneDrive\Documentos\GitHub\Practicas\Farmaceutica\obj\Debug\Farmaceutica.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documentos\GitHub\Practicas\Farmaceutica\obj\Debug\Farmaceutica.exe
+C:\Users\kevin\OneDrive\Documentos\GitHub\Practicas\Farmaceutica\obj\Debug\Farmaceutica.pdb
