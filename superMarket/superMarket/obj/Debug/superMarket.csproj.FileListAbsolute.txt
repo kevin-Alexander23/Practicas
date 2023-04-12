@@ -1,0 +1,3 @@
+C:\Users\ALUMNO\source\repos\superMarket\superMarket\obj\Debug\superMarket.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\source\repos\superMarket\superMarket\obj\Debug\superMarket.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\source\repos\superMarket\superMarket\obj\Debug\superMarket.csproj.CoreCompileInputs.cache
